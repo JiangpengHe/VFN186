@@ -6,6 +6,7 @@ The full dataset can be downloaded [[here]](https://drive.google.com/file/d/1Exi
 
 
 ## Dataset Structure:
+```
 VFN186/
 ├── cropped_new/               # Single food images for all 186 food classes
 │   ├── [food_type_1] ==  label/         # Each subfolder is named as food type == (label)
@@ -14,3 +15,4 @@ VFN186/
 ├── full_data_list.txt         # Complete listing of original VFN186 data
 ├── new_food_list_186_cf.xlsx  # Spreadsheet with FNDDS codes and consumption frequencies
 └── train_test_files/          # Simulated "long-tailed" distribution training files
+```
