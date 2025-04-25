@@ -1,4 +1,4 @@
-# VFN186 Food Image Datasets [IEEE Transaction on MultiMedia 2025] 
+# VFN186 Food Image Datasets [IEEE Transaction on Multimedia 2025] 
 
 This repository contains the **VFN186 food image dataset** that is introduced in **Long-Tailed Continual Learning For Visual Food Recognition** 
 
