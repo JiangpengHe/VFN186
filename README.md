@@ -4,7 +4,7 @@ This repository contains the **VFN186 food image dataset** that is introduced in
 
 The full dataset can be downloaded [[here]](https://drive.google.com/file/d/1Exi8Mw62nF8vS44HkvOwlybrRxqIFauY/view)
 
-![Description](./figure.png)
+![Description](./figure.jpg)
 
 ## Dataset Structure:
 ```
