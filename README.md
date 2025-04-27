@@ -2,6 +2,8 @@
 
 This repository contains the **VFN186 food image dataset** that is introduced in **Long-Tailed Continual Learning For Visual Food Recognition** 
 
+We provide the full VFN186 dataset and also its long-tailed variants, which show the real food consumption patterns of 3 populations including (1) healthy people, (2) Type-1 diabetes (Insulin Taker), and (3) Type-2 diabetes (without taking insulin). 
+
 The full dataset can be downloaded [[here]](https://drive.google.com/file/d/1Exi8Mw62nF8vS44HkvOwlybrRxqIFauY/view)
 
 ![Description](./figure.jpg)
